@@ -1,0 +1,14 @@
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\bin\Debug\netcoreapp2.2\PaymentAccessPortal.deps.json
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\bin\Debug\netcoreapp2.2\PaymentAccessPortal.runtimeconfig.json
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\bin\Debug\netcoreapp2.2\PaymentAccessPortal.runtimeconfig.dev.json
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\bin\Debug\netcoreapp2.2\PaymentAccessPortal.dll
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\bin\Debug\netcoreapp2.2\PaymentAccessPortal.pdb
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\obj\Debug\netcoreapp2.2\PaymentAccessPortal.csproj.CoreCompileInputs.cache
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\obj\Debug\netcoreapp2.2\PaymentAccessPortal.RazorAssemblyInfo.cache
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\obj\Debug\netcoreapp2.2\PaymentAccessPortal.RazorAssemblyInfo.cs
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\obj\Debug\netcoreapp2.2\PaymentAccessPortal.AssemblyInfoInputs.cache
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\obj\Debug\netcoreapp2.2\PaymentAccessPortal.AssemblyInfo.cs
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\obj\Debug\netcoreapp2.2\PaymentAccessPortal.RazorTargetAssemblyInfo.cache
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\obj\Debug\netcoreapp2.2\PaymentAccessPortal.dll
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\obj\Debug\netcoreapp2.2\PaymentAccessPortal.pdb
+C:\Users\DEVPOWERSOFT3\source\repos\PaymentAccessPortal\PaymentAccessPortal\obj\Debug\netcoreapp2.2\PaymentAccessPortal.csprojAssemblyReference.cache

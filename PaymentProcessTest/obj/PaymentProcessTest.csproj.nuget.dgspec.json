@@ -1,0 +1,161 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DEVPOWERSOFT3\\source\\repos\\PaymentAccessPortal\\PaymentProcessTest\\PaymentProcessTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DEVPOWERSOFT3\\source\\repos\\PaymentAccessPortal\\PaymentAccessPortal\\PaymentAccessPortal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DEVPOWERSOFT3\\source\\repos\\PaymentAccessPortal\\PaymentAccessPortal\\PaymentAccessPortal.csproj",
+        "projectName": "PaymentAccessPortal",
+        "projectPath": "C:\\Users\\DEVPOWERSOFT3\\source\\repos\\PaymentAccessPortal\\PaymentAccessPortal\\PaymentAccessPortal.csproj",
+        "packagesPath": "C:\\Users\\DEVPOWERSOFT3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DEVPOWERSOFT3\\source\\repos\\PaymentAccessPortal\\PaymentAccessPortal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DEVPOWERSOFT3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\DEVPOWERSOFT3\\source\\repos\\PaymentAccessPortal\\PaymentProcessTest\\PaymentProcessTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DEVPOWERSOFT3\\source\\repos\\PaymentAccessPortal\\PaymentProcessTest\\PaymentProcessTest.csproj",
+        "projectName": "PaymentProcessTest",
+        "projectPath": "C:\\Users\\DEVPOWERSOFT3\\source\\repos\\PaymentAccessPortal\\PaymentProcessTest\\PaymentProcessTest.csproj",
+        "packagesPath": "C:\\Users\\DEVPOWERSOFT3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DEVPOWERSOFT3\\source\\repos\\PaymentAccessPortal\\PaymentProcessTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DEVPOWERSOFT3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\DEVPOWERSOFT3\\source\\repos\\PaymentAccessPortal\\PaymentAccessPortal\\PaymentAccessPortal.csproj": {
+                "projectPath": "C:\\Users\\DEVPOWERSOFT3\\source\\repos\\PaymentAccessPortal\\PaymentAccessPortal\\PaymentAccessPortal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.4.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
